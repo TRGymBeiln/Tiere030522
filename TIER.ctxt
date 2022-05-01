@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TIER
+comment0.text=\r\n\ Jedes\ Tier\ kann\ ein\ Ger\u00E4usch\ erzeugen\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=java.lang.String\ machtGeraesch()
+comment1.text=\r\n\ Gib\ das\ Geraesch\ des\ Tieres\ zurueck.\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ das\ Geraeuesch\r\n
+numComments=2

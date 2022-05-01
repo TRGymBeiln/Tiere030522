@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AFFE
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ AFFE.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=AFFE()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ESEL\r\n
+comment2.params=
+comment2.target=java.lang.String\ machtGeraesch()
+comment2.text=\r\n\ Gerausch\ eines\ Affe\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ gib\ das\ Gerausch\ zurueck\r\n
+numComments=3
