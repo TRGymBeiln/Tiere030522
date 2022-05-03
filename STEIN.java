@@ -8,7 +8,7 @@ public class STEIN implements TIER
 
     }
 
-   
+    
     public String machtGeraesch()
     {
         return "BONK";
