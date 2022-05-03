@@ -22,11 +22,7 @@ public class AMEISENGERÄUSCH implements TIER
 
     }
 
-    /**
-     * Gerausch eines Affe
-     * 
-     * @return        gib das Gerausch zurueck
-     */
+    
     public String machtGeraesch(){
 
         datei = new File("ameisengeräusch.mp3");
