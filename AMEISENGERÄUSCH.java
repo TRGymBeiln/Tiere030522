@@ -1,17 +1,24 @@
 import java.applet.*;
 import java.io.*;
 import java.net.*;
-//made by KASTLBAUER05
-public class KATZENGERAEUSCH implements TIER
+/**
+ * Beschreiben Sie hier die Klasse AFFE.
+ * 
+ * @author (Ihr Name) 
+ * @version (eine Versionsnummer oder ein Datum)
+ */
+public class AMEISENGERÄUSCH implements TIER
 {
     private String name;
     private File datei;
     private AudioClip clip;
-    
-    
-    public KATZENGERAEUSCH()
+    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
+    /**
+     * Konstruktor für Objekte der Klasse ESEL
+     */
+    public  AMEISENGERÄUSCH()
     {
-        name = "mia";
+        name = "Ameise";
 
     }
 
@@ -22,7 +29,7 @@ public class KATZENGERAEUSCH implements TIER
      */
     public String machtGeraesch(){
 
-        datei = new File("cat.mp3");
+        datei = new File("ameisengeräusch.mp3");
 
         try {
             clip = Applet.newAudioClip(datei.toURL());
@@ -31,6 +38,6 @@ public class KATZENGERAEUSCH implements TIER
         catch (MalformedURLException e) {
             System.out.println("Error: " + e);
         }
-        return "MAIUUUUUUUUUUU";
+        return "schabschabschab";
     }
 }
