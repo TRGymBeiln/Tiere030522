@@ -1,11 +1,11 @@
-public class Tiger implements TIER
+public class TIGER implements TIER
 {
     private String name;
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     /**
      * Konstruktor für Objekte der Klasse ESEL
      */
-    public Tiger()
+    public TIGER()
     {
         name = "Tiger";
 
