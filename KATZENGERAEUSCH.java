@@ -1,21 +1,14 @@
 import java.applet.*;
 import java.io.*;
 import java.net.*;
-/**
- * Beschreiben Sie hier die Klasse AFFE.
- * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
- */
+//made by KASTLBAUER05
 public class KATZENGERAEUSCH implements TIER
 {
     private String name;
     private File datei;
     private AudioClip clip;
-    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    /**
-     * Konstruktor für Objekte der Klasse ESEL
-     */
+    
+    
     public KATZENGERAEUSCH()
     {
         name = "mia";
