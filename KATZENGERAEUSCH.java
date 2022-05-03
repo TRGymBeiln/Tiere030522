@@ -22,7 +22,7 @@ public class KATZENGERAEUSCH implements TIER
      */
     public String machtGeraesch(){
 
-        datei = new File("cat.mp3");
+        datei = new File("cat.wav");
 
         try {
             clip = Applet.newAudioClip(datei.toURL());
