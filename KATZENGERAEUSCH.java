@@ -31,6 +31,6 @@ public class KATZENGERAEUSCH implements TIER
         catch (MalformedURLException e) {
             System.out.println("Error: " + e);
         }
-        return "MAIUZ";
+        return "MAIUUUUUUUUUUU";
     }
 }
