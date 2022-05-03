@@ -1,26 +1,25 @@
 
 /**
- * Beschreiben Sie hier die Klasse HUHN.
+ * Beschreiben Sie hier die Klasse KAKADU.
  * 
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class HUHN implements TIER
+public class SCHAF
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-   
 
     /**
-     * Konstruktor für Objekte der Klasse HUHN
+     * Konstruktor für Objekte der Klasse KAKADU
      */
-    public HUHN()
+    public SCHAF()
     {
         // Instanzvariable initialisieren
-       
+      
     }
 
     public String machtGeraesch()
     {
-        return "BokBokBok";
+        return "Määääähh";
     }
 }
